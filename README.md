@@ -13,10 +13,10 @@ Es wurde in TIA Portal erstellt und dokumentiert meinen Lernfortschritt am 4. Ta
 
 ## 🔍 Vorschau
 
-![Netzwerk 2 – Start/Stop/Not-Aus](screenshots/netzwerk2_start_stop.png)  
-![Netzwerk 3 – Förderbandfreigabe](screenshots/netzwerk3_foerderband.png)  
-![Netzwerk 4 – Ausschiebersteuerung](screenshots/netzwerk4_schieber.png)  
-![Netzwerk 6 – Meldeleuchte](screenshots/netzwerk6_leuchte.png)
+![Netzwerk 2 – Start/Stop](SPS_Fup_01.PNG)  
+![Netzwerk 3 – Förderbandfreigabe](SPS_Fup_02.PNG)  
+![Netzwerk 4 – Ausschiebersteuerung](SPS_Fup_03.PNG)
+
 
 ## 💻 Logik-Ausschnitt
 
