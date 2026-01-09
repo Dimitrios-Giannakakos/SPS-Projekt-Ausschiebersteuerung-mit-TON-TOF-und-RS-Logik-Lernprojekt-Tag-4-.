@@ -26,7 +26,7 @@ Förderbandlogik, Paket-Höhenerkennung und zeitverzögerte Ausschieberaktivieru
 - Rückstellung über Sensor + Timer
 
 ### ✔️ Meldeleuchten
-- Grün = Anlage läuft
+- Grün = Anlage läuft  
 - Rot = Anlage steht
 
 ---
@@ -39,8 +39,8 @@ Förderbandlogik, Paket-Höhenerkennung und zeitverzögerte Ausschieberaktivieru
 ### Netzwerk 3 – Förderbandfreigabe
 ![Netzwerk 3](SPS_Fup_02.PNG)
 
-### Netzwerk 4 – Ausschiebersteuerung
-![Netzwerk 4](SPS_Fup_03.PNG)
+### Netzwerk 5 & 6 – Ausschiebersteuerung (aktualisiert)
+![Netzwerk 5 und 6](SPS_Fup_03.PNG)
 
 ---
 
@@ -55,10 +55,4 @@ Q → RS.S
 
 RS-Speicher
 S: TON.Q
-R: %M0.3
-Q → TON2.IN
-
-TON2 (PT = T#500ms)
-IN: RS.Q
-Q → %Q0.3 (Ausschieber)
-     %Q0.4 (Ausschieber-Band)
+R
